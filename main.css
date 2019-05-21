@@ -11,7 +11,7 @@
   top: 3px;
   left: 7px;
   color: cyan;
-  mix-blend-mode: darken;
+  mix-blend-mode: lighten;
 }
 
 .third {
